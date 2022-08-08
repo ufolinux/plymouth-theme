@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Ufolinux_2
+Description=Plymouth theme for ufolinux
+Comment=created By Cybersecbyte (@cybersecbyte)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/ufoliinux_2
+ScriptFile=/usr/share/plymouth/themes/ufolinux_2/ufolinux_2.script
